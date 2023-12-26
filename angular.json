@@ -145,7 +145,10 @@
         }
       }
     }
-},
-"cli": {
-  "analytics": false
+  },
+  "defaultProject": "marketplace",
+  "cli": {
+    "analytics": false
+  }
 }
+
