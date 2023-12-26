@@ -144,6 +144,8 @@
           }
         }
       }
-    }},
-  "defaultProject": "marketplace"
+    }
+},
+"cli": {
+  "analytics": false
 }
